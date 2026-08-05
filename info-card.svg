@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="372" viewBox="0 0 460 372" role="img" aria-label="neofetch-style info card">
+  <rect width="460" height="372" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect width="460" height="32" rx="10" fill="#161b22"/>
+  <rect y="31" width="460" height="1" fill="#30363d"/>
+  <circle cx="14" cy="16" r="5" fill="#ff5f57"/>
+  <circle cx="30" cy="16" r="5" fill="#ffbd2e"/>
+  <circle cx="46" cy="16" r="5" fill="#28c840"/>
+  <text x="230" y="20" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8b949e">anaserchicha08-web — neofetch</text>
+  <style>
+    .line {
+      opacity: 0;
+      animation: slideIn 0.4s ease forwards;
+    }
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateX(-8px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+  <g class="line" id="line0" style="animation-delay:0.0s">
+    <text x="20" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#39d353">anaserchicha08-web@github</text>
+  </g>
+  <g class="line" id="line1" style="animation-delay:0.07s">
+    <text x="20" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#30363d">──────────────────────────────</text>
+  </g>
+  <g class="line" id="line2" style="animation-delay:0.14s">
+    <text x="20" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#56d364">Name:</text>
+    <text x="90" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">Anas Erchicha</text>
+  </g>
+  <g class="line" id="line3" style="animation-delay:0.21s">
+    <text x="20" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#56d364">Role:</text>
+    <text x="90" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">Developer &amp; Lifelong Learner</text>
+  </g>
+  <g class="line" id="line4" style="animation-delay:0.28s">
+    <text x="20" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#56d364">Location:</text>
+    <text x="90" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">Algeria 🇩🇿</text>
+  </g>
+  <g class="line" id="line5" style="animation-delay:0.35s">
+  </g>
+  <g class="line" id="line6" style="animation-delay:0.42s">
+    <text x="20" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#e3b341">Stack:</text>
+    <text x="90" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">Node.js · JS · Python</text>
+  </g>
+  <g class="line" id="line7" style="animation-delay:0.49s">
+    <text x="20" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#e3b341">Learning:</text>
+    <text x="90" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">Networking · Cloud · DevOps</text>
+  </g>
+  <g class="line" id="line8" style="animation-delay:0.56s">
+  </g>
+  <g class="line" id="line9" style="animation-delay:0.63s">
+    <text x="20" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f78166">Projects:</text>
+    <text x="90" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">Networking Docs Series</text>
+  </g>
+  <g class="line" id="line10" style="animation-delay:0.7s">
+    <text x="20" y="264" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f78166">GitHub:</text>
+    <text x="90" y="264" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#58a6ff">github.com/anaserchicha08-web</text>
+  </g>
+  <g class="line" id="line11" style="animation-delay:0.77s">
+  </g>
+  <g class="line" id="line12" style="animation-delay:0.84s">
+    <text x="20" y="304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">OS:</text>
+    <text x="90" y="304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">Windows 11</text>
+  </g>
+  <g class="line" id="line13" style="animation-delay:0.91s">
+    <text x="20" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">Editor:</text>
+    <text x="90" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">VS Code</text>
+  </g>
+  <g class="line" id="line14" style="animation-delay:0.98s">
+    <text x="20" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">Shell:</text>
+    <text x="90" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">PowerShell / bash</text>
+  </g>
+  <rect x="20" y="356" width="14" height="14" rx="3" fill="#ff5f57"/>
+  <rect x="38" y="356" width="14" height="14" rx="3" fill="#ffbd2e"/>
+  <rect x="56" y="356" width="14" height="14" rx="3" fill="#28c840"/>
+  <rect x="74" y="356" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="92" y="356" width="14" height="14" rx="3" fill="#bd93f9"/>
+  <rect x="110" y="356" width="14" height="14" rx="3" fill="#ff79c6"/>
+  <rect x="128" y="356" width="14" height="14" rx="3" fill="#f8f8f2"/>
+  <rect x="146" y="356" width="14" height="14" rx="3" fill="#6272a4"/>
+</svg>
